@@ -6,12 +6,12 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="ciaomuloni",
     version="0.0.1",
-    author="Example Author",
-    author_email="author@example.com",
+    author="Michele Pagot",
+    author_email="michele.pagot@hotmail.it",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/michelepagot/ciaomuloni",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
